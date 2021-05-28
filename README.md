@@ -5,9 +5,20 @@
 - Actualmente estoy trabajando **React,Supabase,Firebase,React Native**
 - Me gustaria formar parte de proyectos que me permitan profundizar en el uso de React y nuevas tecnologias como React Native, TypeScript y GraphQL
 
+### - 📫 How to reach me: ...
+   <p>
+      <a href="https://linkedin.com/in/alan-diaz-7dev">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alan Diaz LinkedIn Profile" height="30" width="30">
+      </a>   
+      <a align='right' href="mailto:alanfdiaz@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+   </p>
+   <p><label>alanfdiaz@gmail.com</label></p
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/alan-diaz-7dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alan-diaz-7dev" height="30" width="40" /></a>
+<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alan-diaz-7dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
