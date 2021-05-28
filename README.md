@@ -1,4 +1,4 @@
-<h1 align="center">Hola,Mi nombre es Alan</h1> 
+<h1 align="center">Hola, Mi nombre es Alan</h1> 
 <h3 align="center">Full-Stack developer y aprendiz Full-time</h3>
  
 Soy un ser curioso que busca descubrir y crear nuevos caminos para acercar soluciones, tengo experiencia trabajando en proyectos con Sequelize, Postgres, Supabase,Firebase, Express, React, Redux.
