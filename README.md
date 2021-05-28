@@ -3,7 +3,7 @@
  
 Soy un ser curioso que busca descubrir y crear nuevos caminos para acercar soluciones, tengo experiencia trabajando en proyectos con Sequelize, Postgres, Supabase,Firebase, Express, React, Redux.
 
--Actualmente estoy trabajando en el desarrollo de aplicaciones web desde una perspectiva Full-stack, utilizando lenguaje JavaScript (JS), React para el Front y NodeJS para el Back.
+- Actualmente estoy trabajando en el desarrollo de aplicaciones web desde una perspectiva Full-stack, utilizando lenguaje JavaScript (JS), React para el Front y NodeJS para el Back.
 Me interesa formar parte de un grupo de trabajo donde pueda aplicar mis habilidades tanto técnicas como interpersonales, adaptarme a nuevas dinamicas buscando la mejor forma de aportar
 
 - Me gustaria formar parte de proyectos que me permitan profundizar en el uso de React y nuevas tecnologias como React Native, TypeScript y GraphQL
