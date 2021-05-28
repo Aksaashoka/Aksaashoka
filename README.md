@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Mi nombre es Alan</h1> 
 <h3 align="center">Full-Stack developer y aprendiz Full-time</h3>
  
-<a href="https://ibb.co/595qGLN"><img src="https://i.ibb.co/kyhY5XR/plantas.jpg" alt="plantas" border="0"></a>
+<a href="https://ibb.co/sghwqnR"><img src="https://i.ibb.co/vcbPkpq/Agregar-un-t-tulo.png" alt="Agregar-un-t-tulo" border="0"></a>
 Soy un ser curioso que busca descubrir y crear nuevos caminos para acercar soluciones, tengo experiencia trabajando en proyectos con Sequelize, Postgres, Supabase,Firebase, Express, React, Redux.
 
 - Actualmente estoy trabajando en el desarrollo de aplicaciones web desde una perspectiva Full-stack, utilizando lenguaje JavaScript (JS), React para el Front y NodeJS para el Back.
