@@ -1,7 +1,9 @@
-<h1 align="center">Hola!<br></br>soy Alan</h1>
+<h1 align="center">Hola!<br></br>mi nombre es Alan</h1>
 <h3 align="center">Full-Stack developer y aprendiz Full-time</h3>
  
-- Actualmente estoy trabajando con **React,Supabase,Firebase,React Native**
+Soy un ser curioso que busca descubrir y crear nuevos caminos para acercar soluciones, tengo experiencia trabajando en proyectos con Sequelize, Postgres, Supabase,Firebase, Express, React, Redux.
+-Actualmente estoy trabajando en el desarrollo de aplicaciones web desde una perspectiva Full-stack, utilizando lenguaje JavaScript (JS), React para el Front y NodeJS para el Back.
+Me interesa formar parte de un grupo de trabajo donde pueda aplicar mis habilidades tanto técnicas como interpersonales, adaptarme a nuevas dinamicas buscando la mejor forma de aportar
 - Me gustaria formar parte de proyectos que me permitan profundizar en el uso de React y nuevas tecnologias como React Native, TypeScript y GraphQL
 ********
 ### - 📫 Contacto:
@@ -12,6 +14,8 @@
       <a href="mailto:alanfdiaz@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
+       <a href ="https://wa.me/1138029500">
+ <img src= "https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" height"30" width= "30"/>
    </p>
    <p><label>alanfdiaz@gmail.com</label></p
 
