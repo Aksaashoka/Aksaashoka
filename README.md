@@ -1,16 +1,15 @@
-### Hi there 👋
 <h1 align="center">Hola!soy Alan</h1>
 <h3 align="center">Full-Stack developer y aprendiz Full-time</h3>
  
 - Actualmente estoy trabajando **React,Supabase,Firebase,React Native**
 - Me gustaria formar parte de proyectos que me permitan profundizar en el uso de React y nuevas tecnologias como React Native, TypeScript y GraphQL
-
-### - 📫 How to reach me: ...
+********
+### - 📫 Contacto: ...
    <p>
       <a href="https://linkedin.com/in/alan-diaz-7dev">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alan Diaz LinkedIn Profile" height="30" width="30">
       </a>   
-      <a align='right' href="mailto:alanfdiaz@gmail.com">
+      <a align='bottom' href="mailto:alanfdiaz@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
