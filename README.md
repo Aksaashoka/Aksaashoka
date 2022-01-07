@@ -6,8 +6,16 @@
 <a href="https://ibb.co/sghwqnR"><img src="https://i.ibb.co/vcbPkpq/Agregar-un-t-tulo.png" alt="Agregar-un-t-tulo" border="0" width="100%"></a>
 Soy un ser curioso que busca descubrir y crear nuevos caminos para acercar soluciones, tengo experiencia trabajando en proyectos con Sequelize, Postgres, Supabase,Firebase, Express, React, Redux.
 
-- Actualmente estoy trabajando en el desarrollo de aplicaciones web desde una perspectiva Full-stack, utilizando lenguaje JavaScript (JS), React para el Front y NodeJS para el Back.
-Me interesa formar parte de un grupo de trabajo donde pueda aplicar mis habilidades tanto técnicas como interpersonales, adaptarme a nuevas dinamicas buscando la mejor forma de aportar
+- Actualmente estoy trabajando como desarrollador Front End en el Equipo React de Nubi, donde creamos y mantenemos los distintos productos de la empresa en Web y Mobile, utilizando React Native nos permite crear aplicaciones tanto para Android como Ios. Formo parte de un gran equipo donde la información se comparte y se potencia.
+
+Me encanta formar parte de un grupo de trabajo donde puedo aplicar mis habilidades tanto técnicas como interpersonales, adaptarme a nuevas dinamicas buscando la mejor forma de aportar, profundizar en el uso de React y  aprender nuevas tecnologías.
+
+Contacto_ 
+ Alanfdiaz@gmail.com
+https://www.linkedin.com/in/alan-diaz-7dev
+https://github.com/Aksaashoka
+
+
 
 - Me gustaria formar parte de proyectos que me permitan profundizar en el uso de React y nuevas tecnologias como React Native, TypeScript y GraphQL
 ********
